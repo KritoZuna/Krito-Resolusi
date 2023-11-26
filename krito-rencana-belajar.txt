@@ -1,9 +1,9 @@
 RENCANA BELAJAR KRITO
 -C#
--UNITY
 -GAME DESIGN
 -N2 BAHASA JEPANG
 - NO PMO
 - Belajar skill baru
 *Bahasa pemrograman
 *Desain dan Editing Video
+
